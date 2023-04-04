@@ -53,3 +53,17 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marqzzs&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Marqzzs&color=00c647)
+ 
+</div>
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/> -->
+
+<hr>
+
+
+<!--
+**wenderdecastro/wenderdecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
