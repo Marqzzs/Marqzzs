@@ -16,9 +16,9 @@
 
  📖 Learning System Development at SENAI de Informática.
 
- 👨🏾‍🎓 TI apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
+ 👨🏾‍🎓 
 
- ✍🏾 Design entusiast in general.
+ ✍🏾 
 </div>
 
 <hr>
@@ -29,9 +29,9 @@
 
 <!-- <br></br> -->
 
- 
+<div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marqzzs&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Mauricio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqzzs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqzzs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
