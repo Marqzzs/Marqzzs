@@ -10,18 +10,25 @@
 
 
 
-<div align-center>
+<div align="left">
 <hr>
 <img src="https://pbs.twimg.com/profile_images/1551979554922700802/z9XUkObc_400x400.jpg" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
-* 📖 Learning System Development at SENAI de Informática.
+
+ 📖 Learning System Development at SENAI de Informática.
+
+ 👨🏾‍🎓 TI apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
+
+ ✍🏾 Design entusiast in general.
+</div>
 
 <hr>
+
 
 <div align="center">
 </div>
 
 <!-- <br></br> -->
-<hr>
+
  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marqzzs&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Mauricio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqzzs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
