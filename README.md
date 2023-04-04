@@ -53,6 +53,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marqzzs&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
-
-![snake gif](https://github.com/Marqzzs/Marqzzsblob/output/github-contribution-grid-snake.svg)
-
