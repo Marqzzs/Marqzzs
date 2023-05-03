@@ -16,7 +16,7 @@
 
  📖 Learning System Development at SENAI de Informática.
 
- 👨🏾‍🎓  Atualmente estudando C# e Python
+ 👨🏾‍🎓  Atualmente estudando C#, Pyhthon e Javascript
 
 </div>
 
