@@ -1,7 +1,7 @@
 <img src="https://github.com/juliaathar/juliaathar/blob/main/Rectangle%201.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ʕ•́ᴥ•̀ʔっ)](https://git.io/typing-svg)
-<img src="image/peixe.gif" alt="peixe" width="100">
+<img src="image/peixe.gif" alt="peixe" width="130">
 <img src="https://github.com/juliaathar/juliaathar/blob/main/Rectangle%201.png">
 
 ![Marqzzs GitHub stats](https://github-readme-stats.vercel.app/api?username=Marqzzs&show_icons=true&theme=tokyonight)
