@@ -1,7 +1,6 @@
 <img src="https://github.com/juliaathar/juliaathar/blob/main/Rectangle%201.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo(a)!;Saiba+mais+sobre+mim+aqui+ʕ•́ᴥ•̀ʔっ)](https://git.io/typing-svg)
-<iframe src="https://giphy.com/embed/1yld7nW3oQ2IyRubUm" width="312" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1yld7nW3oQ2IyRubUm">via GIPHY</a></p>
 <img src="https://github.com/juliaathar/juliaathar/blob/main/Rectangle%201.png">
 
 
