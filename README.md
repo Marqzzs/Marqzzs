@@ -5,7 +5,7 @@
 <img src="https://github.com/juliaathar/juliaathar/blob/main/Rectangle%201.png">
 
 
-![Marqzzs GitHub stats](https://github-readme-stats.vercel.app/api?username=Marqzzsr&show_icons=true&theme=tokyonight)
+![Marqzzs GitHub stats](https://github-readme-stats.vercel.app/api?username=Marqzzs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marqzzs&layout=compact&theme=tokyonight)
   
 <div style="display: inline_block">
