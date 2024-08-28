@@ -15,6 +15,7 @@
  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="azure" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg)">
 </div>
 
 <div style="display: inline_block">
